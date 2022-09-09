@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Entry point 
- * Description - Using the puts function instead of printf
+ * main - Entry point
+ * Description:Using the puts function instead of printf
  * Return: 0 (success)
  */
 
