@@ -6,3 +6,4 @@ My first C project
 4. My first Code using the puts function
 5. Using the printf function in C programming.
 6. Printing out the size of data type in C programming language.
+7. Generates the assembly code (Intel syntax) of a C code and save it in an output file.
