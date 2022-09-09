@@ -5,7 +5,6 @@
  * Deacription: Printing out the sizes of each data type
  * Return: 0 (success)
  */
-
 int main(void)
 {
 	char a;
@@ -16,6 +15,5 @@ int main(void)
 	printf("Size of a long int: %zu byte(s)\n", sizeof(c));
 	printf("Size of a long long int: %zu byte(s)\n", sizeof(long long int));
 	printf("Size of a float: %zu byte(s)\n", sizeof(float));
-
 	return (0);
 }
