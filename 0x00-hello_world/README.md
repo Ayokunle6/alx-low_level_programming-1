@@ -5,3 +5,4 @@ My first C project
 3. Using the gcc command to compile a c file and creating an executeable name for it (gcc cfile -o exename)
 4. My first Code using the puts function
 5. Using the printf function in C programming.
+6. Printing out the size of data type in C programming language.
