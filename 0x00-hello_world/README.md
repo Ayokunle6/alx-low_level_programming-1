@@ -7,3 +7,4 @@ My first C project
 5. Using the printf function in C programming.
 6. Printing out the size of data type in C programming language.
 7. Generates the assembly code (Intel syntax) of a C code and save it in an output file.
+8. Using the write function in C andd returning 1.
