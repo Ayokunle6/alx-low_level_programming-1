@@ -11,13 +11,11 @@
 int main(void)
 {
 	int x;
+	int to_upper = toupper(x);
 
 	for (x = 'a'; x <= 'z'; x++)
 	{
 		putchar(x);
-	}
-	{
-		int to_upper = toupper(x);
 		putchar(to_upper);
 	}
 	putchar('\n');
