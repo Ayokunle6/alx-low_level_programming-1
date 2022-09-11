@@ -5,3 +5,5 @@ TASKS ON VARIABLES, IF, ELSE IF, AND WHILE LOOP
 2. Using the putchar function to print a to z in lower case.
 3. Printing the alphabet with putchar in lower and upper case.
 4. Using the continue function to elimnate some alphabet in the Alphabets
+5. printing out the numbers from 0 to 9 using the for loop function.
+
