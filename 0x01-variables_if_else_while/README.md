@@ -11,3 +11,4 @@ TASKS ON VARIABLES, IF, ELSE IF, AND WHILE LOOP
 8. Using the putchar function to print 0-9 and a-f.
 9. program that prints all possible combinations of single-digit numbers. 
 10. program that prints all possible different combinations of two digits.
+11. prints all possible different combinations of three digits.
