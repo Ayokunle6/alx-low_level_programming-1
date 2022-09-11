@@ -12,3 +12,4 @@ TASKS ON VARIABLES, IF, ELSE IF, AND WHILE LOOP
 9. program that prints all possible combinations of single-digit numbers. 
 10. program that prints all possible different combinations of two digits.
 11. prints all possible different combinations of three digits.
+12. program that prints all possible combinations of two two-digit numbers.
