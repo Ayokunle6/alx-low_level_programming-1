@@ -10,3 +10,4 @@ TASKS ON VARIABLES, IF, ELSE IF, AND WHILE LOOP
 7. printing the alphabet in reverse by using the forloop and decrement statement .
 8. Using the putchar function to print 0-9 and a-f.
 9. program that prints all possible combinations of single-digit numbers. 
+10. program that prints all possible different combinations of two digits.
