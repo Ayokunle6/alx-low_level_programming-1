@@ -16,8 +16,8 @@ int main(void)
 	for (comb = 48; comb <= 57; comb++)
 	{
 		putchar(comb);
+		putchar(32);
 		putchar(',');
-		putchar('\n');
 	}
 	putchar('\n');
 	return (0);
