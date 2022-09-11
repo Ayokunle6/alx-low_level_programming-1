@@ -8,4 +8,4 @@ TASKS ON VARIABLES, IF, ELSE IF, AND WHILE LOOP
 5. printing out the numbers from 0 to 9 using the for loop function.
 6. Using the function putchar to print out the numbers from 0-9 (using the ascii table)  .
 7. printing the alphabet in reverse by using the forloop and decrement statement .
-
+8. Using the putchar function to print 0-9 and a-f 
