@@ -8,8 +8,10 @@
  * Return: 0 (success)
  */
 
+void print_alphabet(void);
 int main(void)
 {
+	
 	/* Decleration */
 	int a;
 
@@ -21,4 +23,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
