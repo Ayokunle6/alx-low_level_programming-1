@@ -8,8 +8,7 @@
  * Return: 0 (success)
  */
 
-void print_alphabet(void);
-int main(void)
+void print_alphabet(void)
 {
 	
 	/* Decleration */
@@ -18,8 +17,7 @@ int main(void)
 	/* Statement */
 	for (a = 'a'; a <= 'z'; a++)
 	{
-		putchar(a);
+		_putchar(a);
 	}
-	putchar('\n');
-	return (0);
+	_putchar('\n');
 }
