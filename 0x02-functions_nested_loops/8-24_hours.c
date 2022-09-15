@@ -15,12 +15,12 @@ void jack_bauer(void)
 	int first_digit_min, last_digit_min;
 
 	/* Statement */
-	for (hours = 0; hours > 24; hours++)
+	for (hours = 0; hours < 24; hours++)
 	{
 		first_digit = hours / 10;
 		last_digit = hours % 10;
 
-		for (minutes = 0; minutes > 60; minutes++)
+		for (minutes = 0; minutes < 60; minutes++)
 		{
 			first_digit_min = minutes / 10;
 			last_digit_min = minutes % 10;
