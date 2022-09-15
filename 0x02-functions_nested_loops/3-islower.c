@@ -3,7 +3,8 @@
 #include "main.h"
 
 /**
- * _islower(int c) -Entry point (check for lower case)
+ * _islower - Entry point (check for lower case)
+ * @c: variable used to confirm the case
  * Description: calling function from main.h and check for lower case
  * Return: 0 (success)
  */
