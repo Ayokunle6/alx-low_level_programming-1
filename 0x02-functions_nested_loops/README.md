@@ -9,3 +9,5 @@ Functions and nested loops
 8. print the last digit of a number after calling the function int print_last_digit(int); from main.h
 9. printing every minute of the day of Jack Bauer, starting from 00:00 to 23:59
 10. a function that prints the 9 times table, starting with 0.
+11. a function that adds two integers and returns the result
+
