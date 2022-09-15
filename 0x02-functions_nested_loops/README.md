@@ -7,3 +7,4 @@ Functions and nested loops
 6. printing the sign of a number after calling the function from the main.h file
 7. Computing the absolute value of a number after calling the function from main.h file
 8. print the last digit of a number after calling the function int print_last_digit(int); from main.h
+9. printing every minute of the day of Jack Bauer, starting from 00:00 to 23:59
