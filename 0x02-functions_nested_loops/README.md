@@ -5,3 +5,4 @@ Functions and nested loops
 4. Calling the function from headerr file and checking for lower case character
 5. Checking for alphabetic characters and calling function from main.h file
 6. printing the sign of a number after calling the function from the main.h file
+7. Computing the absolute value of a number after calling the function from main.h file
