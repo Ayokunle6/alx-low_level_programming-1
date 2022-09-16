@@ -3,7 +3,7 @@
 
 /**
  * _isdigit - Checks for numbers
- * @c: int variable 
+ * @c: int variable
  * Description: The function checks for a number and returns 1
  * Return: success
  */
