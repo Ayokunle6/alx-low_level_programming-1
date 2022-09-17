@@ -3,7 +3,7 @@
 
 /** main - Entry point
  * Description: code to solve the FizzBuzz challenge
- * Return: success
+ * Return: 0 (success)
  */
 
 int main(void)
@@ -29,9 +29,8 @@ int main(void)
 			printf("Buzz ");
 			continue;
 		}
-		
 		printf("%d ", num);
 	}
-	
+
 	return (0);
 }
