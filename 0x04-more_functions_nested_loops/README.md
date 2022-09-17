@@ -8,4 +8,4 @@ C - More functions, more nested loops
 7. Using the for loop to write a function that draws a straight line in the terminal.
 8. a function that draws a diagonal line on the terminal.
 9. A function that prints a square, followed by a new line.
-
+10. The FizzBuzz Test.
