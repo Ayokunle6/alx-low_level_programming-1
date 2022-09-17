@@ -6,4 +6,4 @@ C - More functions, more nested loops
 5. Function that prints 0-9 without 2 and 4. (The function is called from main.h file)
 6. A function that prints 10 times the numbers, from 0 to 14, followed by a new line.
 7. Using the for loop to write a function that draws a straight line in the terminal.
-
+8. a function that draws a diagonal line on the terminal.
