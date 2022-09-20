@@ -3,4 +3,5 @@ C - Pointers, arrays and strings
 1. Creating a function that swaps two the values of two integers using derefrence
 2. A function that returns the length of a string
 3. A function that prints a string, followed by a new line, to stdout.
-4. 
+4. Reversing the words from the string.
+
