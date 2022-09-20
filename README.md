@@ -4,3 +4,4 @@ C programming Lessons
 3. Directory: 0x02-functions_nested_loops (Understanding nexted loops, function prototypes and headerfile)
 4. Directory/folder: 0x03-debugging (debbuging the code without the help of the checker)
 5. Directory/folder: 0x04-more_functions_nested_loops(more examples on nexted loops)
+6. Directory/folder: 0x05-pointers_arrays_strings(Learning about pointers, Arrayand Strings)
