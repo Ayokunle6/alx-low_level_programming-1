@@ -7,18 +7,14 @@
 
 void rev_string(char *s)
 {
-	/*Decleration*/
-	int i;
+	/* Declearation */
+	int len, rev;
 
 	/*Statement*/
-	while (s[i])
+	while (s[len] != '\0')
+		len++;
+	for (rev = (len - 1); rev >= 0; rev--)
 	{
-		i++;
+		_putchar(s[rev]);
 	}
-
-	for (i = i - 1; i >= 0; i--)
-	{
-		_putchar(s);
-	}
-	_putchar('\n');
 }
