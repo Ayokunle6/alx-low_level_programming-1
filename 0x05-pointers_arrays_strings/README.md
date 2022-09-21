@@ -6,4 +6,5 @@ C - Pointers, arrays and strings
 4. Reversing the words from the string.
 5. Creating a function that reverse a string
 6. A function that prints every other character of a string, starting with the first character, followed by a new line.
-7.  
+7. A function that prints half of a string, followed by a new line.
+
