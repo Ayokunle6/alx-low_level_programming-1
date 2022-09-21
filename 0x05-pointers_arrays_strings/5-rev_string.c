@@ -8,13 +8,18 @@
 void rev_string(char *s)
 {
 	/* Declearation */
-	int len, rev;
+	int len, first;
+	int last, r;
 
 	/*Statement*/
 	while (s[len] != '\0')
 		len++;
-	for (rev = (len - 1); rev >= 0; rev--)
+	len--;
+	for (r = 0; r <= len / 2; r++)
 	{
-		_putchar(s[rev]);
+		first = s[r];
+		last = s[len - r];
+		s[r] = last;
+		s[len - r] = first;
 	}
 }
