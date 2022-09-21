@@ -11,6 +11,8 @@ void puts_half(char *str)
 	/*decleration*/
 	int i, n;
 
+	i = 0;
+
 	/*Statement*/
 	while (str[i] != '\0')
 	{
@@ -24,6 +26,7 @@ void puts_half(char *str)
 			n = (str[i] - 1) / 2;
 			_putchar(n);
 		}
+		i++;
 	}
 	_putchar('\n');
 }
