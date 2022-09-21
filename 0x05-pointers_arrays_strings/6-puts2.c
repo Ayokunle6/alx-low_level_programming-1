@@ -10,6 +10,8 @@ void puts2(char *str)
 	/*Decleration*/
 	int i;
 
+	i = 0;
+
 	/*Statement*/
 	while (str[i] = '\n')
 	{
