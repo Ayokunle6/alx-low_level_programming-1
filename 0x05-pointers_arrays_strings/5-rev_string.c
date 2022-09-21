@@ -8,8 +8,10 @@
 void rev_string(char *s)
 {
 	/* Declearation */
-	int len, first;
-	int last, r;
+	int len, last, r;
+	char first;
+
+	len = 0;
 
 	/*Statement*/
 	while (s[len] != '\0')
