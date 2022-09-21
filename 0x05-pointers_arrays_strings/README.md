@@ -4,4 +4,6 @@ C - Pointers, arrays and strings
 2. A function that returns the length of a string
 3. A function that prints a string, followed by a new line, to stdout.
 4. Reversing the words from the string.
-5. Creating a function that reverse a string 
+5. Creating a function that reverse a string
+6. A function that prints every other character of a string, starting with the first character, followed by a new line.
+7.  
