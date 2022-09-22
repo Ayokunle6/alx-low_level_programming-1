@@ -9,3 +9,4 @@ C - Pointers, arrays and strings
 7. A function that prints half of a string, followed by a new line.
 8. A function that prints n elements of an array of integers
 9. A function that copies the string
+10. A function that convert a string to an integer.
