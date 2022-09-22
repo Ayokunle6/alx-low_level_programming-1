@@ -18,11 +18,12 @@ char *_strcat(char *dest, char *src)
 
 
 	/*Statement*/
-	while (len1 != '\0' || len2 != '\0')
+	while (len1 != '\0')
 	{
 		len1++;
-		len2++;
 	}
+	while (len2 != '\0')
+		len2++;
 
 	first = dest[len1];
 	sec = src[len2];
