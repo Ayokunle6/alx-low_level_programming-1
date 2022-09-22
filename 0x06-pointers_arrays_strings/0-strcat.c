@@ -10,7 +10,7 @@
 char *_strcat(char *dest, char *src)
 {
 	/*Decleration*/
-	int len1, len2, i;
+	int len1, len2;
 
 	len1 = 0;
 	len2 = 0;
